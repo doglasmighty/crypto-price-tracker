@@ -1,0 +1,21 @@
+# Crypto Price Tracker
+
+This is a simple web app that shows the current price of Bitcoin (BTC) in both USD and Nigerian Naira (NGN).  
+It fetches live Bitcoin prices using the CoinDesk API and converts USD to NGN at a fixed exchange rate.
+
+## Features
+- Real-time Bitcoin price in USD
+- Converted Bitcoin price in NGN (₦)
+- Updates every minute automatically
+
+## How to Use
+1. Open the `crypto_price_tracker.html` file in a web browser.
+2. The Bitcoin price will load and update every 60 seconds.
+
+## Technologies Used
+- HTML
+- JavaScript (Fetch API)
+
+## Contact
+Created by Ewuola Daniel Okikiolajesu  
+Email: okikiolajesudaniel@gmail.com
